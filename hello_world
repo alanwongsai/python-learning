@@ -1,1 +1,3 @@
 print ('hello Pyworld!')
+why = input ('why do you want to learn Python?')
+print (why)
